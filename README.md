@@ -13,7 +13,8 @@ To break it down into simpler steps:
 4.	Person correlation was done to obtain words that were commonly used or appear together such as “adequate information”, “health care”
 5.	Data was plotted to include features such as a minimum number of users and or a range of correlations to generate word codes
 Lastly, two major themes emerged from the generated codes:
-Themes
+
+## Themes
 1.	Information gap about the covid-19 vaccine: 
 * Most of the respondents do not know about the vaccine and were reluctant to take the vaccine  
 * Misconception about covid-19 vaccines being for only health care workers and elderly people 
