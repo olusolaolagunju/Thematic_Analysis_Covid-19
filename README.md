@@ -11,7 +11,9 @@ To break it down into simpler steps:
 2.	The response table was merged with a stop word table which consists of generally used words including “The”, “he”, “I”, and punctuation signs. This was done to remain only words that drive home the point made by each respondent
 3.	To ensure that the codes generated were frequently used words by most respondents, the data were filtered to retain only words mentioned by a minimum of 5 people out of 20.
 4.	Person correlation was done to obtain words that were commonly used or appear together such as “adequate information”, “health care”
-5.	Data was plotted to include features such as a minimum number of users and or a range of correlations to generate word ![codes](https://github.com/olusolaolagunju/Thematic_Analysis_Covid-19/blob/main/covid_thematic_2_0.2.png) 
+5.	Data was plotted to include features such as a minimum number of users and or a range of correlations to generate word code ![image](https://github.com/olusolaolagunju/Thematic_Analysis_Covid-19/blob/main/covid_thematic_2_0.2.png) 
+
+
 Lastly, two major themes emerged from the generated codes:
 
 ## Themes
