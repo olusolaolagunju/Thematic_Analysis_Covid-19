@@ -22,4 +22,4 @@ Lastly, two major themes emerged from the generated codes:
 * Misconception about covid-19 vaccines being for only health care workers and elderly people 
 2. Concerns about the safety and future side effects of  covid-19 vaccine: 
 *	Respondents expressed fear of the possible side effects of the vaccine, especially on children, and doubts about the effectiveness of the vaccine
-Dataset obtained from ![figshare.com](https://figshare.com/articles/dataset/Parents_perception_towards_covid-19_vaccine_for_children_in_Southern_Ethiopia/19826386) (Zemedu, A. (2022). parents' perception of covid-19 vaccine for children in Southern Ethiopia)
+Dataset obtained from [figshare.com](https://figshare.com/articles/dataset/Parents_perception_towards_covid-19_vaccine_for_children_in_Southern_Ethiopia/19826386) (Zemedu, A. (2022). parents' perception of covid-19 vaccine for children in Southern Ethiopia)
